@@ -1,0 +1,6 @@
+dataset:
+  path: '/home/avo1d/PycharmProjects/study-cifar10-master/dataset'
+  train_dir: 'train'
+  test_dir: 'test'
+  lables_csv: 'trainLabels.csv'
+  sample: 'sampleSubmission.csv'
